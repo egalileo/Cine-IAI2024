@@ -127,6 +127,8 @@ public class Main {
                     boleto = sc.next();
                     devolverBoleto(cine, filas, columnas, boleto);
                     break;
+                case 4:  // Opcion cambiar de asiento
+                    break;
                 default:
                     salir = true;
                     break;
